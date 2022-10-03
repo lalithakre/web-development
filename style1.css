@@ -1,0 +1,12 @@
+.sidebar
+{
+    background-color: powderblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.main
+{
+    background-color: pink;
+}
