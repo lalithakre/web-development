@@ -1,0 +1,10 @@
+let isTrue='true';
+let integer=20;
+let c=true;
+let float=3423.3;
+let lalit=324353425;
+console.log(isTrue);
+console.log(integer);
+console.log(c);
+console.log(float);
+console.log(lalit);

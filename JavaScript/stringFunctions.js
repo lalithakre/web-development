@@ -1,0 +1,10 @@
+let lalit="lalithakre    ";
+lalit.trim();
+console.log(lalit.replace('a','l'));
+console.log(lalit.split("a"));
+console.log(lalit.length);
+console.log(lalit.charCodeAt(0));
+console.log(lalit.substring(0,3));
+console.log(lalit.endsWith('re'));
+console.log(lalit.indexOf('l'));
+console.log(lalit.slice(4));
